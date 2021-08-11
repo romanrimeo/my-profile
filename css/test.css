@@ -1,0 +1,23 @@
+body{
+	
+	background-image: url("back.jpg");
+	background-color: #cccccc;
+}
+
+h1{
+	color: darkred;
+	font-size: 90px;
+	text-decoration: underline;
+
+}
+h2{
+	color: darkred;
+	font-size: 25px;
+	font-display: block;
+}
+span{
+	font-style: italic;
+}
+h2 span{
+	text-decoration: ;
+}
